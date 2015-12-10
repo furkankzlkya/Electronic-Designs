@@ -1,0 +1,1 @@
+![1](images/isi_sensoru.png)
